@@ -1,4 +1,4 @@
-const appVersion = '0.0.5';
+const appVersion = '0.0.1';
 
 const func1 = () => {
   alert('hello!123')
