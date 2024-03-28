@@ -1,9 +1,5 @@
 const appVersion = '0.0.5';
 
-// window.onload = (event) => {
-//   document.getElementById('appVersion').innerHTML = appVersion;
-// };
-
 const func1 = () => {
   alert('hello!123')
 }
