@@ -4,6 +4,10 @@ window.onload = (event) => {
   document.getElementById('appVersion').innerHTML = appVersion;
 };
 
+const func1 = () => {
+  alert('hello!123')
+}
+
 function reload() {
   if (!('serviceWorker' in navigator))
     return;
