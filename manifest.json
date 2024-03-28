@@ -5,7 +5,7 @@
   "background_color": "#66cdaa",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "/pwa_install//menu.html",
+  "start_url": "/test-install/menu.html",
   "icons": [
    {
     "src": "images/icons/icon-192x192.png",
