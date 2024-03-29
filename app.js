@@ -1,9 +1,5 @@
 const appVersion = '0.0.1';
 
-const func1 = () => {
-  alert('hello!123')
-}
-
 function reload() {
   if (!('serviceWorker' in navigator))
     return;
